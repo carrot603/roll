@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | {{ site.Title }}</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon.png" | relURL }}">
+  <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+</head>
+<body>
+  <header>
+    <nav>
+  <a href="{{ "/" | relLangURL }}">{{ if eq site.Language.Lang "en" }}Home{{ else }}首頁{{ end }}</a> |
+  <a href="https://tally.so/r/vXPPpD" target="_blank" rel="noopener noreferrer">{{ if eq site.Language.Lang "en" }}Submit{{ else }}提交{{ end }}</a> |
+  <a href="{{ "/about/" | relLangURL }}">{{ if eq site.Language.Lang "en" }}About{{ else }}關於{{ end }}</a> |
+  <a href="{{ "index.xml" | absLangURL }}">RSS </a>
+  {{- range .AllTranslations -}}
+    {{- if ne .Lang $.Lang -}}
+      | <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{- end -}}
+  {{- end -}}
+</nav>
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  <main>
+    <article>
+      {{ .Content }}
+    </article>
+  </main>
+</body>
+</html>

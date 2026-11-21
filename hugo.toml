@@ -1,0 +1,38 @@
+baseURL = "https://roll.carrot.tw/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      table = true
+      strikethrough = true
+      taskList = true
+
+[params]
+  images = ["/share.png"]
+
+[params.label]
+  text = "Carollt" 
+  textWithIcon = false
+
+[params.assets]
+  favicon = "/favicon.png"
+  favicon32x32 = "/favicon.png"
+  apple_touch_icon = "/apple-touch-icon.png"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    title = "Carollt"
+    weight = 1
+
+  [languages.zh-tw]
+    languageName = "中文"
+    languageCode = "zh-tw"
+    title = "Carollt"
+    weight = 2

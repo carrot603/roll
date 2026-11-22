@@ -12,7 +12,7 @@ description: "關於 Carollt 的定位、收錄方式與 RSS 訂閱說明。"
 - 平台：指「把獨立部落格串聯起來的社群」，包括目錄、Webring、隨機傳送、RSS 聚合等等。不是部落格託管服務，也絕對不是社群媒體。
 - 部落卷（Blogroll）：部落客推薦的其他部落格清單，像是「友站」、「友鏈」。
 - 部落卷卷（Blogrollroll）：收集很多「部落格推薦清單」的清單，[blogrollroll](https://blogblog.club/blogrollroll/) 這個字應該是 [Wiwi](https://wiwi.blog/) 獨創的！
-- 部落卷卷卷（Blogrollrollroll）：集合「推薦清單清單」的清單，這個字是我發明的😆有點致敬 [nownownow](https://nownownow.com/) 的味道！總之我想盡可能地收集到所有平台，不需要過於拘泥以上繞口令般的定義🤣
+- 部落卷卷卷（Blogrollrollroll）：集合「推薦清單清單」的清單，這個字是我發明的😆有點致敬 [nownownow](https://nownownow.com/) 的味道！總之我想盡可能地收集到各種平台，不需要過於拘泥以上繞口令般的定義🤣
 
 
 ## 收錄原則

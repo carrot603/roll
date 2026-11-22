@@ -24,6 +24,7 @@ description: "彙集各類部落格平台、Webring 和 RSS 目錄。"
 - [博友圈](https://www.boyouquan.com/home)
 - [博客汇](https://bloghui.com/)
 - [博客集](https://bloginc.cn/)
+- [好站网](https://www.haozhan.wang/)
 - [有个站](https://www.ygz.ink/)
 - [你来啦！](https://nilai.la/)
 - [十年之约](https://www.foreverblog.cn/)
@@ -40,6 +41,7 @@ description: "彙集各類部落格平台、Webring 和 RSS 目錄。"
 - [中文独立博客列表](https://list.bloghao.com/)
 - [无聊湾 🥱 The Boring Bay](https://boringbay.com/)
 - [独立个人博客推荐导航](https://github.com/shidenggui/bloghub)
+
 ### RSS & Feed Aggregators（RSS 與動態聚合器）
 
 - [BlogFinder](https://bf.zzxworld.com)
@@ -49,9 +51,16 @@ description: "彙集各類部落格平台、Webring 和 RSS 目錄。"
 
 ### Search Engines（獨立網路搜尋引擎）
 
-### Random Discovery（隨機探索／漫遊工具）
+- [Nebula Search](https://nebula.quickconnect.qzz.io/)
+
+### Random Discovery（隨機探索）
 
 - [WebTeleporter | 独立博客传送门](https://webteleporter.top/about)
+
+### IndieWeb Tools（獨立網路工具）
+
+- [IndiePing](https://indieping.giveanornot.com/)
+- [部落格觀察](https://weblog.tw/)
 
 ---
 
@@ -97,3 +106,11 @@ description: "彙集各類部落格平台、Webring 和 RSS 目錄。"
 - [indieblog.page](https://indieblog.page/)
 - [Blog of the .Day](https://blogofthe.day/)
 - [The Forest](https://theforest.link/)
+
+### IndieWeb Tools（獨立網路工具）
+
+- [directory - IndieWeb](https://indieweb.org/directory)
+- [Webring](https://xn--sr8hvo.ws/)
+- [/nownownow](https://nownownow.com/)
+- [omg.lol](https://home.omg.lol/)
+- [uses.tech](https://uses.tech/)

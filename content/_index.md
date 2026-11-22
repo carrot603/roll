@@ -7,8 +7,6 @@ Here is a curated list of indie blog discovery spaces, grouped by language. Here
 
 ## Chinese
 
-Categories are adapted from [The indie web index directory](https://theindex.fyi/).
-
 ### Curated Directories
 
 - [BlogBlog.Club 部落部落俱樂部](https://blogblog.club/party/)
@@ -24,6 +22,7 @@ Categories are adapted from [The indie web index directory](https://theindex.fyi
 - [博友圈](https://www.boyouquan.com/home)
 - [博客汇](https://bloghui.com/)
 - [博客集](https://bloginc.cn/)
+- [好站网](https://www.haozhan.wang/)
 - [有个站](https://www.ygz.ink/)
 - [你来啦！](https://nilai.la/)
 - [十年之约](https://www.foreverblog.cn/)
@@ -50,9 +49,16 @@ Categories are adapted from [The indie web index directory](https://theindex.fyi
 
 ### Search Engines
 
+- [Nebula Search](https://nebula.quickconnect.qzz.io/)
+
 ### Random Discovery
 
 - [WebTeleporter | 独立博客传送门](https://webteleporter.top/about)
+
+### IndieWeb Tools
+
+- [IndiePing](https://indieping.giveanornot.com/)
+- [部落格觀察](https://weblog.tw/)
 
 ---
 
@@ -73,6 +79,7 @@ Categories are adapted from [The indie web index directory](https://theindex.fyi
 - [Ye Olde Blogroll](https://blogroll.org/)
 - [¡Blog!¡Blog!](https://blogblog.es/)
 - [blogs.hn](https://blogs.hn/)
+
 
 ### RSS & Feed Aggregators
 
@@ -97,3 +104,11 @@ Categories are adapted from [The indie web index directory](https://theindex.fyi
 - [indieblog.page](https://indieblog.page/)
 - [Blog of the .Day](https://blogofthe.day/)
 - [The Forest](https://theforest.link/)
+
+### IndieWeb Tools
+
+- [directory - IndieWeb](https://indieweb.org/directory)
+- [Webring](https://xn--sr8hvo.ws/)
+- [/nownownow](https://nownownow.com/)
+- [omg.lol](https://home.omg.lol/)
+- [uses.tech](https://uses.tech/)

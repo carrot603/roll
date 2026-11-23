@@ -79,6 +79,12 @@ Here is a curated list of indie blog discovery spaces, grouped by language. Here
 - [Ye Olde Blogroll](https://blogroll.org/)
 - [¡Blog!¡Blog!](https://blogblog.es/)
 - [blogs.hn](https://blogs.hn/)
+- [Darktheme Club](https://darktheme.club/)
+- [no-JS.club](https://no-js.club/)
+- [The 250kb Club](https://250kb.club/)
+- [512KB Club](https://512kb.club/)
+- [1MB Club](https://1mb.club/)
+- [BUKMARK.CLUB](https://bukmark.club/)
 
 
 ### RSS & Feed Aggregators
@@ -109,6 +115,10 @@ Here is a curated list of indie blog discovery spaces, grouped by language. Here
 
 - [directory - IndieWeb](https://indieweb.org/directory)
 - [Webring](https://xn--sr8hvo.ws/)
+- [XXIIVV Webring](https://webring.xxiivv.com)
+- [Fediring](https://fediring.net)
+- [Webring Directory](https://webri.ng)
 - [/nownownow](https://nownownow.com/)
 - [omg.lol](https://home.omg.lol/)
 - [uses.tech](https://uses.tech/)
+- [W3C Feed Validation Service](https://validator.w3.org/feed/)

@@ -7,8 +7,6 @@ description: "被 wiwi.love 的熱潮燒到，衝動地做了一個網站"
 
 其實要做這個也不難，只要花一個小時把所有網站點開過一次就可以了🫠
 
-註：本清單只列出有專屬留言區的頁面，若網站預設在每篇文章最底下，設有留言區則不計入，敬請見諒！
-
 - [Wiwi.Love 留言簿](https://wiwi.love/)
 
 - [左邻 | 只是玩玩 - 今天该把哪颗灯泡扭进脑袋...?](https://1900.live/links/)
@@ -100,3 +98,8 @@ description: "被 wiwi.love 的熱潮燒到，衝動地做了一個網站"
 - [便條牆 · TSDY Lab](https://tsdylab.com/sticky-notes)
 
 - [留言 - 小十的个人博客](https://www.xiaoten.com/pages/guestbook/)
+
+
+註：本清單只列出附有專屬留言板的頁面；若網站預設在每篇文章最底下，設有留言區則不計入，敬請見諒！
+
+另外，如果您對清單上的網站有任何疑慮，請來信 carrot603&#64;proton.me

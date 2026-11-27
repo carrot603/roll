@@ -9,6 +9,8 @@ description: "被 wiwi.love 的熱潮燒到，衝動地做了一個網站"
 
 - [Wiwi.Love 留言簿](https://wiwi.love/)
 
+- [Guestbook（留言簿）- Tommy's Blog](https://calke.bearblog.dev/guestbook/)
+
 - [左邻 | 只是玩玩 - 今天该把哪颗灯泡扭进脑袋...?](https://1900.live/links/)
 
 - [代禱事項 | Alice Hsu's Blog](https://alicehsu.blog/zh-tw/prayer-request/)
